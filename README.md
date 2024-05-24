@@ -1,16 +1,13 @@
-### Hi there 👋
+# Keep Me Innocent & Stupid
 
-<!--
-**wushen-zhong/wushen-zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Just a non-professional programming enthusiast, all works are based on self-study.
 
-Here are some ideas to get you started:
+## Most Using Tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vscode](https://img.shields.io/badge/Code-Vscode-blue)
+
+## Preferred language
+
+![Javascript](https://img.shields.io/badge/language-JavaScript-yellow) ![Python](https://img.shields.io/badge/language-Python-blue) ![Python](https://img.shields.io/badge/language-Java-orange)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wushen-zhong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
